@@ -1,5 +1,5 @@
 # Análise de Algoritmos de Ordenação
-_Atividade Prática Supervisionada 2 de APA_
+_Uma análise de Algoritmos de Ordenação (Quick Sort, Merge Sort, Insertion Sort e Selection Sort), com implementação, benchmark e avaliação dos algoritmos com base nos meus estudos na cadeira Análise e Projetos e Algoritmos._
 
 ## Visão Geral
 Cada arquivo contento a implementação do algoritmo de ordenação possui a descrição do respectivo algoritmo. 
